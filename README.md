@@ -3,8 +3,11 @@ The C Programming Language, 2nd Edition.
 
 WARNING!!!
 The style of coding under this folder is extremely SLOPPY and CRAPPY.\n
+
 Thus, for your own good and for GOD's sake,\n
+
 read those SHITTY scripts at your own risk.\n
+
 If you don't feel good when reading any of those,\n
 please do not panic.\n
 Close the browser,\n
