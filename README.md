@@ -13,5 +13,5 @@ take a pill if needed.
 Or call 0118-999-881-999-119-7253 (New Emergency Services).
 Please remember this number.
 
-Best regards from your sincere friend,
+Best regards from your sincere friend,\n
 Oliver
