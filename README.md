@@ -14,7 +14,7 @@ please do not panic.\n
 
 Close the browser,\n
 
-deep breath,\n
+deep breathe,\n
 
 take a pill if needed.\n
 
